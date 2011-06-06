@@ -1,0 +1,12 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+SIGNATURE
+dist.ini
+lib/Dist/Zilla/PluginBundle/BasicWithoutMM.pm
+t/00-compile.t
+t/release-pod-syntax.t

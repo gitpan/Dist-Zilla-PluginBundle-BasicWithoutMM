@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Dist-Zilla-PluginBundle-BasicWithoutMM,
+version 0.001:
+
+  Basic plugins to maintain and release CPAN dists, without a module builder
+
+This software is copyright (c) 2011 by Leon Timmermans.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
